@@ -6,13 +6,13 @@ let city = "Adekoya Estate";
 console.log(age);
 console.log(city);
 
-//Checking for data types of age and city variables
+// Checking for data types of age and city variables
 console.log(typeof age);
 console.log(typeof city);
 
 // Creating variables with different data types
 let NumberVar = 25;
-let StringVar = "Javascript is something else!";
+let StringVar = "Hello, JavaScript!";
 let BooleanVar = true;
 
 // Calling variables to confirm values
