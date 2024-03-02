@@ -6,3 +6,4 @@ This code is used to:
 * What data type did you assign as the value in your age and city variables?
 * Create three more variables, and give them each different data types (Number, String, Boolean)
 * Call each variable to confirm it holds the value you believe it does
+<!--  -->
